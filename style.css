@@ -1,0 +1,54 @@
+
+#main{
+    background-repeat: no-repeat;
+    background-image: linear-gradient(#517E93, #15425E);
+    background-color: #15425E; /* For browsers that do not support gradients */
+    
+}
+    
+.panel{
+    margin-top: 20px;
+}
+
+#log {
+    margin-top: 10px;
+}
+
+#log img {
+    width: 100px;
+    height: 20px;
+}
+
+.panel1{
+    margin-top: 10px;
+    margin-bottom: 10px;    
+}
+
+
+
+
+.carousel {
+    padding: 10px 20px 0 20px;
+}
+
+#resultcanvas {
+    background-color: white;
+
+    border-radius: 5px;
+}
+
+.ui-autocomplete-loading {
+    background: white url("https://upload.wikimedia.org/wikipedia/commons/a/a7/HAPPI_Loading.gif") right center no-repeat;
+  }
+
+.fa.fa-facebook{
+    font-size: 25px;
+}
+.glyphicon.glyphicon-star.glyphicon-star-white {
+    color: #FFFFFF;
+    font-size: 21px;
+}
+.glyphicon.glyphicon-star.glyphicon-star-yellow {
+    color: gold;
+    font-size: 21px;
+}

@@ -1,1 +1,2 @@
 # CS571StockWebApp
+## Guide
